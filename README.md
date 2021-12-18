@@ -7,7 +7,7 @@ Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño d
   <img width="630" src="./ss/inicio.PNG"/>
 </p>
 
-- - -
+
 ## LOG IN
 * Log in para acceder como usuario registrado a la aplicación.
 <p align="center">
@@ -24,14 +24,14 @@ Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño d
   <img width="630" src="./ss/bloqueoCuenta.PNG"/>
 </p>
 
-- - -
+
 ## INICIO LOGUEADO
 * Página de inicio para usuario logueado, desde dónde se podrán ver los juegos disponibles para alquilar (los que actualmente se encuentran alquilados aparecen en escala de grises) y proceder a alquilarlos.
 <p align="center">
   <img width="630" src="./ss/escalaGrisAlquilados.PNG"/>
 </p>
 
-- - -
+
 ## DEVOLVER JUEGO
 * Espacio para ver los juegos alquilados actualmente y proceder a su devolución.
 <p align="center">
@@ -49,7 +49,7 @@ Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño d
   <img width="630" src="./ss/ceroUsuariosBloqueados.PNG"/>
 </p>
 
-- - -
+
 ## CRUD
 <p align="center">
   <img width="630" src="./ss/crud.PNG"/>
@@ -61,7 +61,7 @@ Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño d
   <img width="630" src="./ss/nuevoJuego.PNG"/>
 </p>
 
-- - -
+
 ### MODIFICAR JUEGOS
 * Espacio exclusivo del administrador para modificar los juegos existentes en tienda.
 <p align="center">
@@ -76,7 +76,7 @@ Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño d
   <img width="630" src="./ss/mensajeUpdateCorrecto.PNG"/>
 </p>
 
-- - -
+
 ### ELIMINAR JUEGOS
 * Página para dar de baja juegos en tienda.
 <p align="center">
