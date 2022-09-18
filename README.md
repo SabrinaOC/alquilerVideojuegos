@@ -1,5 +1,5 @@
 # Aplicación web de gestión de videojuegos
-Aplicación web desarrollada con PHP para la gestión de un videoclub. Diseño de vistas por tipo de clientes (normales y administradores) y CRUD.
+Aplicación web desarrollada con uno de los frameworks más utilizados de PHP, Laravel para la gestión de un videoclub. Diseño de vistas por tipo de clientes (normales y administradores) y CRUD.
 
 ## INICIO
 * Página de inicio con todos los productos disponibles en tienda (vista sesión no iniciada).
